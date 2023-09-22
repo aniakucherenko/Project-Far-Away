@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Project-Far-Away/static/css/main.fdc828fe.css",
-    "main.js": "/Project-Far-Away/static/js/main.737abfc6.js",
+    "main.js": "/Project-Far-Away/static/js/main.05bbb0b4.js",
     "index.html": "/Project-Far-Away/index.html",
     "main.fdc828fe.css.map": "/Project-Far-Away/static/css/main.fdc828fe.css.map",
-    "main.737abfc6.js.map": "/Project-Far-Away/static/js/main.737abfc6.js.map"
+    "main.05bbb0b4.js.map": "/Project-Far-Away/static/js/main.05bbb0b4.js.map"
   },
   "entrypoints": [
     "static/css/main.fdc828fe.css",
-    "static/js/main.737abfc6.js"
+    "static/js/main.05bbb0b4.js"
   ]
 }
